@@ -1,8 +1,8 @@
 function reverse(str) {
     
-    var newString = "";
+    var newString = "";                 // Creating a empty string 
     
-    for(var i = str.length - 1; i >=0; i--) {
+    for(var i = str.length - 1; i >=0; i--) {        // Starting loop from the last character (str.length -1)
         
         newString += str[i];
     }
