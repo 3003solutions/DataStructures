@@ -1,4 +1,4 @@
-Given a string, return a new string with reversed order of characters.
+Given a string, return a new string with the reversed order of characters.
 
 Example: 
          "Apple" should return "leppa"
