@@ -19,7 +19,7 @@ function maxChar(str){
     }
   for (let char in charMap){         // to iterate over the object here we use for in loop.
 
-    if (charMap[char] > max){
+    if (charMap[char] > max){        // if charMap at char is greater than our max, we are going to update both the max number and character
 
       max = charMap[char];
 
