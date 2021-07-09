@@ -1,0 +1,3 @@
+Check to see if two strings are anograms of eachother. One string is anogram of the other if they use the same characters in the same quantity.
+
+only consider characters not spaces or punctuation.
