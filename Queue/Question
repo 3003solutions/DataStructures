@@ -1,0 +1,1 @@
+Create a Queue data structure. The queue should be a class with methods 'add' and 'remove'. adding to the queue should store an element until its removed.
