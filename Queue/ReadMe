@@ -1,0 +1,7 @@
+/* Data Structures = Ways of organizing information with optimal
+'runtime complexity' for adding or removing records.
+++Javascript natively implemnts several data structures.You will
+be asked about 'other' data structures
+
+Queue = container of data -- 'first in- first out'
+*/
