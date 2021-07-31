@@ -1,0 +1,3 @@
+1- implement the weave function. weave recieves tow queues as arguments and combines the content of each ito a new, third queue.
+the third queue should contain the alterating cont of the two queues.The function should handle queues of different lenghts without 
+inserting 'undefined' into the new one. do not access the array inside of the any queue, only use the add, remove, and peek functions/
